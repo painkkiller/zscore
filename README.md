@@ -1,3 +1,3 @@
 # Z Score with Recharts
 
-Demo
+[Demo](https://painkkiller.github.io/zscore/)
